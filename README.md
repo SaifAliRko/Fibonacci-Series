@@ -1,2 +1,2 @@
 # Fibonacci Series
- fibonacci series 
+Python Program to Print the Fibonacci Sequence.
